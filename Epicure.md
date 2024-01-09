@@ -1,0 +1,3 @@
+Materialiste
+[[Hedonisme]]
+[[Ascetisme]]

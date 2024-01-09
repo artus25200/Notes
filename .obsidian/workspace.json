@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "51fc71ed35222df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "94eb5949bcec573e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "184d4cca64c56066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitalisme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddf3bb17520ad3dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Créationnisme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b8c37cbd7a70d5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b735c214a5a188d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f81961617967e3cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "331a550ac5785a73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#a",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d578f3c490b87ec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c85c0d7f6f2f64a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "424569c82e93b8ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7998820b221d592b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Capitalisme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46f7141d1ec799f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Capitalisme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c149813629804655",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5ab8ddc45974ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Capitalisme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f81961617967e3cd",
+  "lastOpenFiles": [
+    "Notes/a",
+    "Notes",
+    "Contrainte.md",
+    "Autonomie.md",
+    "Descartes.md",
+    "git",
+    "Notes.git",
+    "https:/github.com/artus25200",
+    "https:/github.com",
+    "https:",
+    "git@github.com:artus25200/Notes.git",
+    "git@github.com:artus25200",
+    "Créationnisme.md",
+    "Chapitre 3 Philosophie.md",
+    "Chapitre 2 Philosophie.md",
+    "Rousseau.md",
+    "Philosophie.md",
+    "Chapitre 1 Philosophie.md",
+    "Morale.md",
+    "Morale conséquentialiste.md",
+    "Justnaturalisme.md",
+    "Obligation.md",
+    "Morale Déontologique.md"
+  ]
+}

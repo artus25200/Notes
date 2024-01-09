@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitalisme.md",
+                "file": "Créationnisme.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitalisme.md",
+                "file": "Créationnisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitalisme.md",
+                "file": "Créationnisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +138,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitalisme.md"
+                "file": "Créationnisme.md"
               }
             }
+          },
+          {
+            "id": "1ec1602a79f77da6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "13e7b4e3036c6770",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,14 +173,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "184d4cca64c56066",
+  "active": "ddf3bb17520ad3dc",
   "lastOpenFiles": [
+    "Test.md",
+    "Créationnisme.md",
+    "Chapitre 3 Philosophie.md",
+    "Chapitre 2 Philosophie.md",
+    "Capitalisme.md",
     "Untitled.canvas",
     "2024-01-09.md",
-    "Capitalisme.md",
     "Notes/a",
     "Notes",
     "Contrainte.md",
@@ -175,9 +198,6 @@
     "https:",
     "git@github.com:artus25200/Notes.git",
     "git@github.com:artus25200",
-    "Créationnisme.md",
-    "Chapitre 3 Philosophie.md",
-    "Chapitre 2 Philosophie.md",
     "Rousseau.md",
     "Philosophie.md",
     "Chapitre 1 Philosophie.md",

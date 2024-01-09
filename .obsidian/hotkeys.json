@@ -1,11 +1,1 @@
-{
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
-  "editor:delete-paragraph": []
-}
+{}

@@ -1,83 +1,31 @@
 {
   "main": {
-    "id": "5c986a6b8d6472d8",
+    "id": "a481d405fc3e5d36",
     "type": "split",
     "children": [
       {
-        "id": "c124e88a112a3ca2",
+        "id": "063a5e5bd5972bb5",
         "type": "tabs",
         "children": [
           {
-            "id": "cc6d1d9c897a0b5b",
+            "id": "7004861b7369aefb",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Autonomie.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0820574304395192,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "ed2830107f972245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inconscient.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6434b7b010ee8101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autonomie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ea18dbdd1e8f3f5b",
+    "id": "5e8dc3c63fa3f4a8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f7ce0c0cdc91f61a",
+        "id": "02965b37e7a61c62",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -87,13 +35,13 @@
         }
       },
       {
-        "id": "390b7c2248b33208",
+        "id": "0b7066027458d153",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "N'y",
-            "matchingCase": true,
+            "query": "",
+            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -102,7 +50,7 @@
         }
       },
       {
-        "id": "dc26b55fccc32abb",
+        "id": "8d8eb2ef8c54f11c",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -113,7 +61,7 @@
         }
       },
       {
-        "id": "b110abeb960c8457",
+        "id": "071f1744ec8bed84",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -124,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7b3f111a4316f277",
+    "id": "06cf8db1df6e1427",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "87208f888c989588",
+        "id": "c4cc78456ba48a3c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Autonomie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,25 +92,22 @@
         }
       },
       {
-        "id": "4720ff1f92be9b11",
+        "id": "02d94f2b6a616cfb",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Autonomie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "8f8f73b3dc0ed4e1",
+        "id": "037d69fe0613f852",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Autonomie.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -171,7 +115,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,33 +123,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6434b7b010ee8101",
-  "lastOpenFiles": [
-    "Inconscient.md",
-    "Descartes.md",
-    "Chapitre 1 Philo.md",
-    "Rationnalisme.md",
-    "Philosophie.md",
-    "Desir.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Intemperance.md",
-    "Chapitre 2 Philosophie.md",
-    "Epicurisme.md",
-    "Stoïcisme.md",
-    "Epokhê.md",
-    "Epicure.md",
-    "Liberté.md",
-    "Psychanalyse.md",
-    "Capitalisme.md",
-    "Hétéronomie.md",
-    "Ideologie.md",
-    "Autonomie.md",
-    "Determinisme social.md",
-    "Determinisme.md",
-    "Pierre Bourdieu.md",
-    "Habitus.md",
-    "Karl Marx.md",
-    "immediat.md"
-  ]
+  "active": "7004861b7369aefb",
+  "lastOpenFiles": []
 }

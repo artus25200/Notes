@@ -1,0 +1,3 @@
+- Conséquences :
+	- Difficultés de certaines espèces à se reproduire :
+		- EX : Le crapaud buffle, introduit Australie -> proteger canne à sucre, mais il s'est bcp reproduit, et est inefficace et il tue des espèces (varans)

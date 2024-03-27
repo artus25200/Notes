@@ -37,10 +37,15 @@ kanban-plugin: basic
 
 ## Voeu confirmé
 
+**Complete**
+- [x] La Martiniere MPSI (pas de lettre)
+
+
+***
+
+## Archive
+
 - [ ] La Martiniere MPSI (pas de lettre à mettre)
-
-
-
 
 %% kanban:settings
 ```

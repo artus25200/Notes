@@ -1,5 +1,5 @@
 [[Philosophie]]
-Faire ce que l’ont veut: Laisser libre cours à notre Volonté et à nos [[Desir|Desirs]] 
+Faire ce que l’ont veut: Laisser libre cours à notre Volonté et à nos [[Desir|Désirs]] ?
 
 # I 
 ## A -[[Calliclès]], [[Intemperance]]
@@ -17,9 +17,7 @@ Defend le Naturel, ce qui ne change pas
 ## B - [[Stoïcisme]], [[Epictete]]
 
 # III
-
-
-# A - [[Emmanuel Kant]] - la loi [[Morale]]
+## A - [[Emmanuel Kant]] - la loi [[Morale]]
 [[Morale Déontologique]] 
 [[Morale conséquentialiste]]
 
@@ -35,6 +33,6 @@ Pour être libre l'individu doit être soumis à des lois morales ([[Obligation]
 La [[Morale]] différencie l'[[Homme]] de l'[[Animal]]
 refuser les lois, c'est renoncer à son [[Humanité]]
 
-# B - [[Rousseau]] - Les lois juridiques
+## B - [[Rousseau]] - Les lois juridiques
 [[Justnaturalisme]]
 En [[Démocratie]], l'obeissance aux lois juridiques est une protection de [[Liberté]], car les lois sont conçues comme des obligations, et les lois sont votés par la population pour proteger ces droits naturels.

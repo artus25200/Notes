@@ -12,7 +12,6 @@ Conscience = preuve de l’existence et condition de la connaissance de soi
 ## B - [[J.P.Sartre]]
 [[Conscience]] —> [[Libre arbitre]] —> [[Autonomie]]—> Responsabilité
 [[Mauvaise foi]] 
-_Exemple_ : 
 - Une tuile tue un passant —> [[Hétéronomie]] , pas de [[Responsabilité ]]
 - Un Homme tue un passant —> [[Autonomie]], [[Responsabilité]]
 # II

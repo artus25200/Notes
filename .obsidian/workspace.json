@@ -10,7 +10,7 @@
           {
             "id": "50431a96a2299dbd",
             "type": "tabs",
-            "dimension": 42.38845144356955,
+            "dimension": 63.25459317585301,
             "children": [
               {
                 "id": "4bf0b91bb9494149",
@@ -20,7 +20,7 @@
                   "state": {
                     "file": "Daily/27-03-2024.md",
                     "mode": "source",
-                    "source": true
+                    "source": false
                   }
                 }
               }
@@ -29,18 +29,14 @@
           {
             "id": "a1953ea094e9e1f0",
             "type": "tabs",
-            "dimension": 57.61154855643045,
+            "dimension": 36.74540682414698,
             "children": [
               {
                 "id": "f9991a5d0594deb9",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily/27-03-2024.md",
-                    "mode": "preview",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -96,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.51103591918945,
-    "collapsed": true
+    "width": 236.51103591918945
   },
   "right": {
     "id": "c85c0d7f6f2f64a3",
@@ -172,14 +167,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "1373246fe63324c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,6 +197,14 @@
   },
   "active": "4bf0b91bb9494149",
   "lastOpenFiles": [
+    "Voeux Parcoursup.md",
+    "Daily/27-03-2024.md",
+    "Daily",
+    "Untitled Kanban.md",
+    "Philosophie/Untitled.md",
+    "Excalidraw/Drawing 2024-02-15 18.28.00.excalidraw.md",
+    "Excalidraw",
+    "2024-01-09.md",
     "Philosophie/Determinisme.md",
     "Determinisme des passions.md",
     "Philosophie/Determinisme social.md",
@@ -203,12 +213,9 @@
     "Philosophie/Chapitre 3 Philosophie.md",
     "Philosophie/Chapitre 1 Philosophie.md",
     "Philosophie/Chapitre 2 Philosophie.md",
-    "Daily/27-03-2024.md",
-    "Voeux Parcoursup.md",
     "Test Math.md",
     "Philo DM.md",
     "Daily/2024-03-27.md",
-    "Excalidraw/Drawing 2024-02-15 18.28.00.excalidraw.md",
     "Maths/Untitled.md",
     "Maths/Mathématiques.md",
     "Philosophie/Doute cartesien.md",
@@ -217,14 +224,8 @@
     "Drawing 2024-03-27 15.10.30.excalidraw.md",
     "Untitled.canvas",
     "2024-03-27.md",
-    "2024-01-09.md",
-    "Daily",
-    "Excalidraw",
     "SVT/Oral svt.md",
-    "Créationnisme.md",
     "SVT",
-    "Philosophie/mediat.md",
-    "Philosophie/immediat.md",
     "Philosophie",
     "Maths",
     "Allemand",

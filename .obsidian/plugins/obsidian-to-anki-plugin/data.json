@@ -1,0 +1,316 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Anglais": "",
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Basic+": "",
+      "Basic-e669b": "",
+      "Basique-34f51": "",
+      "Basique-3f974": "",
+      "Carte 3 faces": "",
+      "Cloze": "",
+      "Conversions": "",
+      "Double [Bôtifoul]": "",
+      "F/N et N/F": "",
+      "German 10000": "",
+      "GermanNote": "",
+      "Japanese-75658": "",
+      "Migaku German": "",
+      "Nomenclature": "",
+      "Obsidian-basic": "",
+      "Obsidian-basic-code": "",
+      "Obsidian-basic-reversed": "",
+      "Obsidian-basic-reversed-code": "",
+      "Obsidian-cloze": "",
+      "Obsidian-cloze-code": "",
+      "Obsidian-spaced": "",
+      "Obsidian-spaced-code": "",
+      "Simple [Bôtiful]": "",
+      "Texte à trous": "",
+      "Texte à trous [Bôtifoul]": "",
+      "Texte à trous+": "",
+      "Texte à trous_Cours": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Anglais": "Anglais",
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Basic+": "Front",
+      "Basic-e669b": "Recto",
+      "Basique-34f51": "Recto",
+      "Basique-3f974": "Recto",
+      "Carte 3 faces": "Front",
+      "Cloze": "Text",
+      "Conversions": "Texte",
+      "Double [Bôtifoul]": "Contexte (optionnel)",
+      "F/N et N/F": "Recto",
+      "German 10000": "Sound",
+      "GermanNote": "German",
+      "Japanese-75658": "Vocabulary-Kanji",
+      "Migaku German": "Sentence",
+      "Nomenclature": "Recto",
+      "Obsidian-basic": "Front",
+      "Obsidian-basic-code": "Front",
+      "Obsidian-basic-reversed": "Front",
+      "Obsidian-basic-reversed-code": "Front",
+      "Obsidian-cloze": "Text",
+      "Obsidian-cloze-code": "Text",
+      "Obsidian-spaced": "Prompt",
+      "Obsidian-spaced-code": "Prompt",
+      "Simple [Bôtiful]": "Contexte (optionnel)",
+      "Texte à trous": "Texte",
+      "Texte à trous [Bôtifoul]": "Contexte (optionnel)",
+      "Texte à trous+": "Texte",
+      "Texte à trous_Cours": "Texte"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "Parcoursup/Lettre motivation MPSI.md": "f34810018285b13049b2e1f010b7c67a",
+    "Parcoursup/Voeux Parcoursup.md": "5892538abd52ef5e4d8f25ebcfd24313",
+    "Daily/27-03-2024.md": "3507ed5398d86898c62458ccf9cc0fa1",
+    "SVT/Oral svt.md": "dafad7a271fb57d0859b8ba2806494c0",
+    "Test Math.md": "55c91dc810691b7f70ab7589d0d6204c",
+    "Philo DM.md": "70b630bfe6871fd28f30efc0c6fc8aaf",
+    "Philosophie/mediat.md": "ec3097bebd7f5f2808a6d0acc7b47678",
+    "Philosophie/immediat.md": "7d916952913e225601372999de121116",
+    "Philosophie/Stoïcisme.md": "3733b0c7f6d35e665f33da7a4ffc9ef6",
+    "Philosophie/Solipsisme.md": "7fbce52b214342228c3723e1c9940d95",
+    "Philosophie/Rousseau.md": "381d85df5116af453dcfa86d3aa2e1cd",
+    "Philosophie/Responsabilité.md": "f4d396762b82d4eee8d51c9cfdfa6240",
+    "Philosophie/Rationnalisme.md": "f36558ecc954c5da1ece664c0548ed75",
+    "Philosophie/Psychanalyse.md": "f32c000f3c920f36e45e0880186f1efb",
+    "Philosophie/Pierre Bourdieu.md": "919a9ec0fbe1e7416e946a1a201926e9",
+    "Philosophie/Philosophie.md": "7afedca3323bcbbb9a3815ebb1fbfffc",
+    "Philosophie/Obligation.md": "a7fa8e88ee19e5f1bd4ebee038db2684",
+    "Philosophie/Morale.md": "f26903ce642d2a483d4e0f90d6fe529d",
+    "Philosophie/Morale conséquentialiste.md": "8ba11d10a21ea42734c371ac548d3ac7",
+    "Philosophie/Morale Déontologique.md": "a27ed68b7e16cd75d457ef5f7c6dfad4",
+    "Philosophie/Mauvaise foi.md": "480b0f294cc00d3123f2d9ce5f3aae86",
+    "Philosophie/Liberté.md": "61c958a1d2a15988f9b7f96b01aabdd8",
+    "Philosophie/Karl Marx.md": "8a09e87e90bb9e6c280cee755542e9da",
+    "Philosophie/Justnaturalisme.md": "e989ef40f6f0cd9df5e3195b51080c35",
+    "Philosophie/J.P.Sartre.md": "a5d57ec5e9e79566a771910798019483",
+    "Philosophie/Intemperance.md": "c3b747bec6e9f3907cb36406e71293cf",
+    "Philosophie/Inconscient.md": "b3b76d44af380a3b438921f7409c3463",
+    "Philosophie/Ideologie.md": "5854b66bfc3be7dcf704b4b9855b7072",
+    "Philosophie/Hétéronomie.md": "d1d7cd2f629565bbc64df4286372bac3",
+    "Philosophie/Habitus.md": "b4e4b4cfe48cd0bf14b249223a346d27",
+    "Philosophie/Existentialisme.md": "8138734938b17e1d84f8871b7d876a30",
+    "Philosophie/Epokhê.md": "9692d24111e700cc36b30afc9e74bc16",
+    "Philosophie/Epicurisme.md": "afb0f217b4a1d0a0246b58aaa60bc2d0",
+    "Philosophie/Epicure.md": "42657a0a708dc32a91f3ba85e1ded1a5",
+    "Philosophie/Doute cartesien.md": "da94f1270f7ccda3b7906e3ef26fc23a",
+    "Philosophie/Determinisme.md": "4017caee72fb04ef151775f2efff6345",
+    "Philosophie/Determinisme social.md": "1e1f57853334c9c42105a42033e7570f",
+    "Philosophie/Desir.md": "2aee3ccf297a824ec519238c1a3e6ab5",
+    "Philosophie/Descartes.md": "091b94c6b1e5364d7eee8c118489e7a6",
+    "Philosophie/Créationnisme.md": "7f8f78d208e27933550d76847aa14012",
+    "Philosophie/Contrainte.md": "2bba6a0ab33a254709f645dd23979c93",
+    "Philosophie/Chapitre 3 Philosophie.md": "340e3b8dcae6d8246472689462acba37",
+    "Philosophie/Chapitre 2 Philosophie.md": "8b73a487308b2eef716dfb5f962173d8",
+    "Philosophie/Chapitre 1 Philosophie.md": "dc41211b5d80e404eef788fcc9798b90",
+    "Philosophie/Capitalisme.md": "e69e481ed16a085bdf5f91c8571c0302",
+    "Philosophie/Autonomie.md": "8f1b6dfa2827b4b68ac7bea1dd9bbc3b",
+    "Maths/Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Maths/Mathématiques.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Allemand/Das Präteritum.md": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "fields_dict": {
+    "Anglais": [
+      "Anglais",
+      "Français"
+    ],
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Basic+": [
+      "Front",
+      "Back"
+    ],
+    "Basic-e669b": [
+      "Recto",
+      "Verso"
+    ],
+    "Basique-34f51": [
+      "Recto",
+      "Verso"
+    ],
+    "Basique-3f974": [
+      "Recto",
+      "Verso"
+    ],
+    "Carte 3 faces": [
+      "Front",
+      "Back",
+      "description"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Conversions": [
+      "Texte",
+      "Extra"
+    ],
+    "Double [Bôtifoul]": [
+      "Contexte (optionnel)",
+      "Recto",
+      "Verso",
+      "Remarque (optionnel)"
+    ],
+    "F/N et N/F": [
+      "Recto",
+      "Verso"
+    ],
+    "German 10000": [
+      "Sound",
+      "German",
+      "English"
+    ],
+    "GermanNote": [
+      "German",
+      "English",
+      "Dictionary Item"
+    ],
+    "Japanese-75658": [
+      "Vocabulary-Kanji",
+      "Vocabulary-Furigana",
+      "Vocabulary-Kana",
+      "Vocabulary-English",
+      "Vocabulary-Audio",
+      "Vocabulary-Pos",
+      "Caution",
+      "Expression",
+      "Reading",
+      "Sentence-Kana",
+      "Sentence-English",
+      "Sentence-Clozed",
+      "Sentence-Audio",
+      "Sentence-Image",
+      "Notes",
+      "Core-Index",
+      "Optimized-Voc-Index",
+      "Optimized-Sent-Index"
+    ],
+    "Migaku German": [
+      "Sentence",
+      "Translation",
+      "Target Word",
+      "Definitions",
+      "Screenshot",
+      "Sentence Audio",
+      "Word Audio",
+      "Images",
+      "Example Sentences",
+      "Is Vocabulary Card",
+      "Is Audio Card"
+    ],
+    "Nomenclature": [
+      "Recto",
+      "Verso"
+    ],
+    "Obsidian-basic": [
+      "Front",
+      "Back"
+    ],
+    "Obsidian-basic-code": [
+      "Front",
+      "Back"
+    ],
+    "Obsidian-basic-reversed": [
+      "Front",
+      "Back"
+    ],
+    "Obsidian-basic-reversed-code": [
+      "Front",
+      "Back"
+    ],
+    "Obsidian-cloze": [
+      "Text",
+      "Extra"
+    ],
+    "Obsidian-cloze-code": [
+      "Text",
+      "Extra"
+    ],
+    "Obsidian-spaced": [
+      "Prompt"
+    ],
+    "Obsidian-spaced-code": [
+      "Prompt"
+    ],
+    "Simple [Bôtiful]": [
+      "Contexte (optionnel)",
+      "Recto",
+      "Verso",
+      "Remarque (optionnel)"
+    ],
+    "Texte à trous": [
+      "Texte",
+      "Extra"
+    ],
+    "Texte à trous [Bôtifoul]": [
+      "Contexte (optionnel)",
+      "Texte",
+      "Verso (optionnel)",
+      "Remarque (optionnel)"
+    ],
+    "Texte à trous+": [
+      "Texte",
+      "Verso Extra"
+    ],
+    "Texte à trous_Cours": [
+      "Texte",
+      "Verso Extra",
+      "Chapitre"
+    ]
+  }
+}

@@ -4,22 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "054e5c7b0d79f753",
-        "type": "tabs",
+        "id": "754e14ab1b341b1d",
+        "type": "split",
         "children": [
           {
-            "id": "ffca167448700cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parcoursup/Lettre motivation MPSI.md",
-                "mode": "source",
-                "source": false
+            "id": "054e5c7b0d79f753",
+            "type": "tabs",
+            "dimension": 73.75328083989501,
+            "children": [
+              {
+                "id": "ffca167448700cd2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/28-03-2024.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "0df429eedc581519",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Parcoursup/Lettre Motivation Ginette.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4ecdaa6acd19f374",
+            "type": "tabs",
+            "dimension": 26.246719160104988,
+            "children": [
+              {
+                "id": "fedb7b05dcb2bd88",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/28-03-2024.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcoursup/Lettre motivation MPSI.md",
+                "file": "Parcoursup/Lettre Motivation Ginette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcoursup/Lettre motivation MPSI.md",
+                "file": "Parcoursup/Lettre Motivation Ginette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcoursup/Lettre motivation MPSI.md"
+                "file": "Parcoursup/Lettre Motivation Ginette.md"
               }
             }
           },
@@ -183,15 +223,18 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "ffca167448700cd2",
+  "active": "0df429eedc581519",
   "lastOpenFiles": [
+    "Parcoursup/Lettre motivation MPSI.md",
+    "Parcoursup/Lettre Motivation Ginette.md",
+    "Daily/28-03-2024.md",
+    "Parcoursup/Lettre motivation frere paul ginette.md",
+    "Parcoursup/Voeux Parcoursup.md",
     "Daily/27-03-2024.md",
     "Maths/Test Math.md",
     "Philosophie/Capitalisme.md",
     "Philosophie/Autonomie.md",
-    "Parcoursup/Lettre motivation MPSI.md",
     "Parcoursup",
-    "Parcoursup/Voeux Parcoursup.md",
     "Daily",
     "Untitled Kanban.md",
     "Philosophie/Untitled.md",
@@ -211,10 +254,7 @@
     "Maths/Untitled.md",
     "Maths/Mathématiques.md",
     "Philosophie/Doute cartesien.md",
-    "Philosophie/Descartes.md",
-    "Drawing 2024-03-27 15.10.30.excalidraw.md",
     "Untitled.canvas",
-    "2024-03-27.md",
     "SVT",
     "Philosophie",
     "Maths",

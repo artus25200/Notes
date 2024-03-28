@@ -19,13 +19,13 @@ kanban-plugin: basic
 - [ ] Poincaré MPSI
 - [ ] Albert Schweitzer MPSI
 - [ ] Henri IV MPSI
-- [ ] Sainte Genevieve MPSI
 - [ ] La Martiniere PTSI
 - [ ] Follereau PTSI
 
 
 ## En cours
 
+- [ ] Sainte Genevieve MPSI
 
 
 ## Lettre de motivation mise

@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "51fc71ed35222df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "054e5c7b0d79f753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffca167448700cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcoursup/Lettre motivation frere paul ginette.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b8c37cbd7a70d5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b735c214a5a188d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f81961617967e3cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "331a550ac5785a73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d578f3c490b87ec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5
+  },
+  "right": {
+    "id": "c85c0d7f6f2f64a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "424569c82e93b8ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7998820b221d592b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Parcoursup/Lettre motivation frere paul ginette.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46f7141d1ec799f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Parcoursup/Lettre motivation frere paul ginette.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c149813629804655",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5ab8ddc45974ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Parcoursup/Lettre motivation frere paul ginette.md"
+              }
+            }
+          },
+          {
+            "id": "1ec1602a79f77da6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "13e7b4e3036c6770",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1373246fe63324c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d525dab26ca981ad",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 580.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+    }
+  },
+  "active": "ffca167448700cd2",
+  "lastOpenFiles": [
+    "Daily/27-03-2024.md",
+    "Daily/28-03-2024.md",
+    "Maths/Untitled.md",
+    "Parcoursup/Lettre motivation frere paul ginette.md",
+    "Parcoursup/Lettre Motivation Ginette.md",
+    "Parcoursup/Voeux Parcoursup.md",
+    "Parcoursup/Lettre motivation MPSI.md",
+    "Maths/Test Math.md",
+    "Philosophie/Capitalisme.md",
+    "Philosophie/Autonomie.md",
+    "Parcoursup",
+    "Daily",
+    "Untitled Kanban.md",
+    "Philosophie/Untitled.md",
+    "Excalidraw/Drawing 2024-02-15 18.28.00.excalidraw.md",
+    "Excalidraw",
+    "2024-01-09.md",
+    "Philosophie/Determinisme.md",
+    "Determinisme des passions.md",
+    "Philosophie/Determinisme social.md",
+    "Allemand/Das Präteritum.md",
+    "Philosophie/Philosophie.md",
+    "Philosophie/Chapitre 3 Philosophie.md",
+    "Philosophie/Chapitre 1 Philosophie.md",
+    "Philosophie/Chapitre 2 Philosophie.md",
+    "Philo DM.md",
+    "Daily/2024-03-27.md",
+    "Maths/Mathématiques.md",
+    "Philosophie/Doute cartesien.md",
+    "Untitled.canvas",
+    "SVT",
+    "Philosophie",
+    "Maths",
+    "Allemand",
+    "Notes/a",
+    "Notes",
+    "git"
+  ]
+}

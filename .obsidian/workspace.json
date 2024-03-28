@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcoursup/Lettre motivation MPSI.md",
+                "file": "Daily/27-03-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.51103591918945
+    "width": 207.5
   },
   "right": {
     "id": "c85c0d7f6f2f64a3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcoursup/Lettre motivation MPSI.md",
+                "file": "Daily/27-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcoursup/Lettre motivation MPSI.md",
+                "file": "Daily/27-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcoursup/Lettre motivation MPSI.md"
+                "file": "Daily/27-03-2024.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "7df89d560a42a139",
+            "id": "d525dab26ca981ad",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 580.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,13 +184,17 @@
   },
   "active": "ffca167448700cd2",
   "lastOpenFiles": [
+    "Daily/28-03-2024.md",
+    "Maths/Untitled.md",
+    "Parcoursup/Lettre motivation frere paul ginette.md",
+    "Parcoursup/Lettre Motivation Ginette.md",
     "Daily/27-03-2024.md",
+    "Parcoursup/Voeux Parcoursup.md",
+    "Parcoursup/Lettre motivation MPSI.md",
     "Maths/Test Math.md",
     "Philosophie/Capitalisme.md",
     "Philosophie/Autonomie.md",
-    "Parcoursup/Lettre motivation MPSI.md",
     "Parcoursup",
-    "Parcoursup/Voeux Parcoursup.md",
     "Daily",
     "Untitled Kanban.md",
     "Philosophie/Untitled.md",
@@ -208,13 +211,9 @@
     "Philosophie/Chapitre 2 Philosophie.md",
     "Philo DM.md",
     "Daily/2024-03-27.md",
-    "Maths/Untitled.md",
     "Maths/Mathématiques.md",
     "Philosophie/Doute cartesien.md",
-    "Philosophie/Descartes.md",
-    "Drawing 2024-03-27 15.10.30.excalidraw.md",
     "Untitled.canvas",
-    "2024-03-27.md",
     "SVT",
     "Philosophie",
     "Maths",

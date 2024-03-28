@@ -4,62 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "754e14ab1b341b1d",
-        "type": "split",
+        "id": "054e5c7b0d79f753",
+        "type": "tabs",
         "children": [
           {
-            "id": "054e5c7b0d79f753",
-            "type": "tabs",
-            "dimension": 73.75328083989501,
-            "children": [
-              {
-                "id": "ffca167448700cd2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily/28-03-2024.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "0df429eedc581519",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Parcoursup/Lettre Motivation Ginette.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "ffca167448700cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/28-03-2024.md",
+                "mode": "source",
+                "source": true
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "4ecdaa6acd19f374",
-            "type": "tabs",
-            "dimension": 26.246719160104988,
-            "children": [
-              {
-                "id": "fedb7b05dcb2bd88",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily/28-03-2024.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
+            "id": "0df429eedc581519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Test Math.md",
+                "mode": "preview",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcoursup/Lettre Motivation Ginette.md",
+                "file": "Maths/Test Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcoursup/Lettre Motivation Ginette.md",
+                "file": "Maths/Test Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcoursup/Lettre Motivation Ginette.md"
+                "file": "Maths/Test Math.md"
               }
             }
           },
@@ -225,13 +198,16 @@
   },
   "active": "0df429eedc581519",
   "lastOpenFiles": [
+    "Maths/Untitled.md",
+    "Maths/Test Math.md",
+    "Maths/Mathématiques.md",
+    "Daily/27-03-2024.md",
+    "Daily/28-03-2024.md",
+    "Allemand/Das Präteritum.md",
     "Parcoursup/Lettre motivation MPSI.md",
     "Parcoursup/Lettre Motivation Ginette.md",
-    "Daily/28-03-2024.md",
     "Parcoursup/Lettre motivation frere paul ginette.md",
     "Parcoursup/Voeux Parcoursup.md",
-    "Daily/27-03-2024.md",
-    "Maths/Test Math.md",
     "Philosophie/Capitalisme.md",
     "Philosophie/Autonomie.md",
     "Parcoursup",
@@ -244,15 +220,12 @@
     "Philosophie/Determinisme.md",
     "Determinisme des passions.md",
     "Philosophie/Determinisme social.md",
-    "Allemand/Das Präteritum.md",
     "Philosophie/Philosophie.md",
     "Philosophie/Chapitre 3 Philosophie.md",
     "Philosophie/Chapitre 1 Philosophie.md",
     "Philosophie/Chapitre 2 Philosophie.md",
     "Philo DM.md",
     "Daily/2024-03-27.md",
-    "Maths/Untitled.md",
-    "Maths/Mathématiques.md",
     "Philosophie/Doute cartesien.md",
     "Untitled.canvas",
     "SVT",
